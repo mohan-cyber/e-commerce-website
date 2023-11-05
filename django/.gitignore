@@ -1,0 +1,29 @@
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+
+# Environments
+.env
+.env.prod
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+
+# static files
+/static-files
+
+# media
+/media
+
+# dumpdata
+# ./manage.py dumpdata > dumpdata.json
+dumpdata.json
